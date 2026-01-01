@@ -8,7 +8,7 @@
 - Passionate about building clean and user-friendly apps
 
 ## 🚀 Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,mongodb,flutter,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,flutter,git" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ketansuthar11)
 
