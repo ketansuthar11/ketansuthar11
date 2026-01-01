@@ -11,13 +11,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,node,mongodb,flutter,git" />
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketansuthar11&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ketansuthar11&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketansuthar11&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ketansuthar11&theme=tokyonight&hide_border=true)
+
 
 
 ## 📂 Projects
-- 🌦️ DishDiary – Recipe Expolring App (Flutter)
+- 🍲 DishDiary – Recipe Expolring App (Flutter)
 - 🌱 PYH Horticulture – Plant E-commerce (MERN)
 - 🍽️ Serve Smart – Mess Management System (Frontend)
 
