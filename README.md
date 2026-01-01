@@ -11,8 +11,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,node,mongodb,flutter,git" />
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ketansuthar11&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketansuthar11&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketansuthar11&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ketansuthar11&theme=tokyonight)
+
 
 ## 📂 Projects
 - 🌦️ DishDiary – Recipe Expolring App (Flutter)
