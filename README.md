@@ -10,11 +10,7 @@
 ## 🚀 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,node,mongodb,flutter,git" />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketansuthar11&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ketansuthar11&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ketansuthar11)
 
 
 
