@@ -76,11 +76,11 @@ const ketan = {
   
 | 🌟 Project | 💻 Tech Stack | 🔗 Links |
 |------------|---------------|----------|
-| **🍽️ Serve Smart** | HTML, CSS, JavaScript | [GitHub](https://github.com/ketansuthar11) |
+| **🍽️ Serve Smart** | HTML, CSS, JavaScript | [GitHub](https://github.com/ketansuthar11/ServeSmart-Fronted) |
 | Hostel Mess Management System with QR scanning & real-time validation | | |
-| **🍲 Dish Diary** | Flutter, Firebase, Dart | [GitHub](https://github.com/ketansuthar11) |
+| **🍲 Dish Diary** | Flutter, Firebase, Dart | [GitHub](https://github.com/ketansuthar11/DishDiary) |
 | Recipe app with 100+ recipes, advanced search & real-time sync | | |
-| **🌱 PYH Horticulture** | MERN Stack, JWT | [GitHub](https://github.com/ketansuthar11) |
+| **🌱 PYH Horticulture** | MERN Stack, JWT | [GitHub](https://github.com/ketansuthar11/PYH-Horticulture) |
 | Plant e-commerce with admin dashboard & inventory management | | |
 
 </div>
@@ -94,7 +94,7 @@ const ketan = {
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ketansuthar11?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 ### 🎯 Achievements
-- 🏆 **450+ Problems Solved** (300+ LeetCode, 50+ GeeksforGeeks)
+- 🏆 **450+ Problems Solved** (400+ LeetCode, 50+ GeeksforGeeks)
 - 💡 Strong foundation in **DSA, OOPS, DBMS, System Design**
 - 🔥 Consistent problem-solving journey
 
