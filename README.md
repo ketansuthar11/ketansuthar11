@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Ketan+Suthar;Full+Stack+Developer+%7C+Problem+Solver;MERN+%2B+Flutter+%7C+400%2B+DSA+Problems;Building+Products+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Ketan+Suthar;Full+Stack+Developer+%7C+Problem+Solver;MERN+%2B+Flutter+%7C+450%2B+DSA+Problems;Building+Products+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -94,7 +94,7 @@ const ketan = {
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ketansuthar11?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 ### 🎯 Achievements
-- 🏆 **350+ Problems Solved** (300+ LeetCode, 40+ GeeksforGeeks)
+- 🏆 **450+ Problems Solved** (300+ LeetCode, 50+ GeeksforGeeks)
 - 💡 Strong foundation in **DSA, OOPS, DBMS, System Design**
 - 🔥 Consistent problem-solving journey
 
@@ -119,9 +119,9 @@ const ketan = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ketansutharsportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-suthar-8560b4276/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ketansuthar11/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketansu55@gmail.com)
 
 </div>
