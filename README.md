@@ -10,7 +10,7 @@
 
 ```javascript
 const ketan = {
-    location: "Gujarat, India 🇮🇳",
+    location: "Vadodara, Gujarat, India 🇮🇳",
     education: "BTech CSE @ Parul Institute of Technology",
     currentFocus: "Building scalable full-stack applications",
     interests: ["Web Dev", "Mobile Apps", "DSA", "System Design"],
