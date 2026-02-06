@@ -110,6 +110,7 @@ const ketan = {
 ☕ **Java Programming** - Udemy  
 🔀 **Git for Beginners** - Udemy  
 💡 **Innovation & Entrepreneurship** - PIERC
+🔥 **GenerativeAI for All** - PwSkills
 
 </div>
 
